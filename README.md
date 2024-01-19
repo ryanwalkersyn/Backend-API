@@ -1,3 +1,7 @@
+# This is a project put together in bootcamp. The following is the instructions for said project.
+# Project utilizes Javalin for HTTP requests
+# Database tables and Connection Utility were provided
+
 # Project: Social media blog API
 
 ## Background 
